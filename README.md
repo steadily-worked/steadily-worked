@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### My name in Sangmin Park.
+#### My name is Sangmin Park.
 
 🤔 I'm interested in FE.<br>
 🌱 I'm currently learning JavaScript, Node.js, jQuery.<br>
