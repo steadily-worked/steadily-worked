@@ -4,7 +4,7 @@
 🤔 I'm interested in FE.<br>
 🌱 I'm currently learning JavaScript, Node.js, jQuery.<br>
 📫 How to reach me:     [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iamsangminpark@gmail.com)](mailto:iamsangminpark@gmail.com)<br>
-🙌 Come here:    [![Tech Blog Badge](http://img.shields.io/badge/-GitHub%20Pages-black?style=flat-square&logo=github&link=https://steadily-worked.github.io/)](https://steadily-worked.github.io/)
+🙌 Come here:    [![Tech Blog Badge](http://img.shields.io/badge/-GitHub%20Pages-black?style=flat-square&logo=github&link=https://sangminpark.me/)](https://sangminpark.me/)
 <!--
 **steadily-worked/steadily-worked** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
