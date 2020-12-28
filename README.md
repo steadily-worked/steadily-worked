@@ -2,7 +2,7 @@
 #### My name is Sangmin Park.
 
 🤔 I'm interested in FE.<br>
-🌱 I'm currently learning Vanilla JS, React<br>
+🌱 I'm currently learning Java, Vanilla JavaScript, React<br>
 📫 How to reach me:     [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iamsangminpark@gmail.com)](mailto:iamsangminpark@gmail.com)<br>
 🙌 Come here:    [![Tech Blog Badge](http://img.shields.io/badge/-GitHub%20Pages-black?style=flat-square&logo=github&link=https://sangminpark.me/)](https://sangminpark.me/)
 <!--
