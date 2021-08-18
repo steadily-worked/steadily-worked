@@ -5,7 +5,9 @@
 🌱 I'm currently learning TypeScript, React<br />
 📋 To-Do list in [here](https://www.notion.so/d8964326c2d74772a1e65f0f6b896b3d?v=091bde428a9c4feda0bd211da75a9950)<br />
 📫 How to reach me:     [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iamsangminpark@gmail.com)](mailto:iamsangminpark@gmail.com)<br />
-🙌 Come here:    [![Tech Blog Badge](http://img.shields.io/badge/-GitHub%20Pages-black?style=flat-square&logo=github&link=https://sangminpark.me/)](https://sangminpark.me/)
+🙌 Come here:    [![Tech Blog Badge](http://img.shields.io/badge/-GitHub%20Pages-black?style=flat-square&logo=github&link=https://steadily-worked.tistory.com/)](https://steadily-worked.tistory.com/)<br /><br />
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=steadilyworked)](https://solved.ac/steadilyworked/)<br />
+
 <!--
 **steadily-worked/steadily-worked** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
