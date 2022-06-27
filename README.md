@@ -4,9 +4,7 @@
 🤔 I'm interested in FE.<br>
 🌱 I'm currently learning Next.js, TypeScript<br />
 📫 How to reach me:     [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iamsangminpark@gmail.com)](mailto:iamsangminpark@gmail.com)<br />
-🙌 Come here:      [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://steadily-worked.tistory.com/)](https://steadily-worked.tistory.com/)
-<br /><br />
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=steadilyworked)](https://solved.ac/steadilyworked/)<br />
+🙌 Come here:      [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://steadily-worked.tistory.com/)](https://steadily-worked.com/)
 
 <!--
 **steadily-worked/steadily-worked** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
