@@ -1,7 +1,7 @@
 ### Hi there 👋
 #### My name is Sangmin Park.
 
-🔭 I’m currently working on <a href="https://freedsoft.oopy.io">Freed Soft</a> as a Frontend Engineer<br />
+🔭 I’m currently working on <a href="https://freedsoft.oopy.io">FreeD Soft</a> as a Frontend Engineer<br />
 🌱 I'm currently learning Next.js, TypeScript<br />
 📫 How to reach me:     [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iamsangminpark@gmail.com)](mailto:iamsangminpark@gmail.com)<br />
 🙌 Come here:      [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://steadily-worked.tistory.com/)](https://steadily-worked.com/)
